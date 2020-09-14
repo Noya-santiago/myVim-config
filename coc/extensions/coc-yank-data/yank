@@ -1,0 +1,1369 @@
+5708a11eec8f41af1ae6ecea2544fdff|file:///home/nysg/.config/nvim/init.vim|36|1|v|vim
+	ratars
+ae2b1fca515949e5d54fb22b8ed95575|file:///home/nysg/.config/nvim/init.vim|36|1|v|vim
+	testing
+f24aa0754a4ce686b2e58bef4346220e|file:///home/nysg/.config/nvim/init.vim|36|1|v|vim
+	colorscheme 
+8481091b14a2cd930356385d33798d8d|file:///home/nysg/.config/nvim/init.vim|82|1|v|vim
+	airline#extensions#tabline#buffers_label = ''
+	"let g:airline#extensions#tabline#tabs_label = ''
+	"let g:airline#extensions#tabline#enabled = 1
+	"let g:airline#extensions#tabline#fnamemod = ':t'
+	"let g:airline#extensions#tabline#formatter = 'unique_tail'
+	" tablline powerline fonts
+	"let airline#extensions#tabline#show_splits = 1
+	"let g:airline#extensions#tabline#left_sep = 1
+	"let g:airline#extensions#tabline#left_alt_sep
+94ff07259105926669009d6de6c32f95|file:///home/nysg/.config/nvim/coc-settings.json|13|1|V|json
+	
+	  ],
+b326b5062b2f0e69046810717534cb09|file:///home/nysg/.config/nvim/coc-settings.json|16|35|v|json
+	true
+5b4f033ed8d9b66206ab2116c991266c|file:///home/nysg/.config/nvim/coc-settings.json|12|1|V|json
+	rastarst
+3bfa70f9dbee6d94e7777a7f968420c1|file:///home/nysg/.config/nvim/coc-settings.json|40|5|v|json
+	"<cr>": ["expandable?", "expand", "open"],
+f70d519f842f4d5ddc609a119f9c5c1b|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|52|1|v|tex
+	\subsection{¿A que se llama navegación VNAV, LNAV y RNAV}
+9740ffcc826cc4779084c61ca5853e8c|file:///home/nysg/.config/nvim/plugins/coc.vim|181|1|v|vim
+	
+	explorer.icon.customIcons : {
+	  "icons": {a},
+	  "extensions":{tex},
+	
+	}
+	
+	
+0e00273c82fc5bfc8a40151599644b58|file:///home/nysg/.config/nvim/coc-settings.json|43|1|v|json
+	
+	  "explorer.icon.customIcons": {
+	    "icons": { "": "tex" },
+	    "extensions": { ".tex": ".tex" },
+	    "filenames": { "tex": "tex" },
+	    "dirnames": {},
+	    "patternMatches": {},
+	    "dirPatternMatches": {}
+	  },
+ed8dc5ac6824c51d5b0c6549426a7b1d|file:///home/nysg/.config/nvim/coc-settings.json|33|1|v|json
+	
+	  "explorer.icon.customIcons": {
+	    "icons": { "": "tex" },
+	    "extensions": { ".tex": ".tex" },
+	    "filenames": { "tex": "tex" },
+	    "dirnames": {},
+	    "patternMatches": {},
+	    "dirPatternMatches": {}
+	
+	  },
+92626ab7b52690da2f1088938565e2f7|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/testing.tex|14|1|V|plaintex
+	testing the functionamieddn
+48e31350f558decb9a473002d12217be|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/testing.tex|13|1|V|plaintex
+	
+	porband
+aad62841dead4c5f8d867cd3447c0161|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/testing.tex|1|1|V|plaintex
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+20cd0cf3e49369e89e8e4e4a7e2eb2b8|file:///home/nysg/.config/nvim/init.vim|117|7|v|vim
+	LInting 
+5e0e41a71233de680019f766c9f5679f|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|37|8|v|tex
+	FMS}
+dd485e41f1758def296e1bc7377f8ea7|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|27|2|v|tex
+	mundo
+69f38b6135a07fd4065fd9693ac5e141|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|27|1|v|tex
+	usebox
+00c421f4a1b802a4a5441c4cb97cf259|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|166|9|v|tex
+	m    
+095290ccb5988d97cf694753641f31b5|file:///home/nysg/.config/nvim/config.vim|36|16|v|vim
+	300                      
+76dd5154245cbfdb98abde3425b6566b|file:///home/nysg/.config/nvim/init.vim|15|1|V|vim
+	testing the speeed now 
+088e30db8c3d9ff5637eb80a37bd8daa|untitled:1|10|1|V|
+	hola como estas puedo editar rapido? 
+8abf2b767d4e697cd4a249430591f3f4|untitled:1|10|1|V|
+	hola como estas puedo editar rapido? 
+	hola como estas puedo editar rapido? 
+49f7bbc04ec293f5371581fcae64133f|untitled:1|8|1|V|
+	tar
+	ts
+67e05e68d80d57eaaf01fe39d29a30b7|untitled:1|6|1|V|
+	arst
+	ar
+eb2e397e191a38769190a062d555aad3|untitled:1|13|1|V|
+	ar
+	arst
+de2514715270b42bac567f4f4af31315|untitled:1|8|1|v|
+	ras
+	t
+	arst
+	aeihola como estas r
+	KV
+	a
+38614fe8309c12fa234beaa9d1f12d8c|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|40|8|v|tex
+	FMESEE 
+a45c4ef1b3932641ea48adb8cf26bbdc|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|40|8|v|tex
+	lool
+6e0a925cbe223a9550e3471b87d25fb8|file:///home/nysg/.config/nvim/init.vim|27|1|v|vim
+	
+	let g:javascript_highlight_all=1 
+	let g:typescript_highlight_all=1 
+	
+	
+	hi Comment cterm=italic
+	let g:nvcode_hide_endofbuffer=1
+	let g:nvcode_terminal_italics=1
+	let g:nvcode_termcolors=256
+	
+	syntax on
+	colorscheme dracula
+	
+	
+	" checks if your terminal has 24-bit color support
+	if (has("termguicolors"))
+	    set termguicolors
+	    hi LineNr ctermbg=NONE guibg=NONE
+	endif
+	
+	
+	let g:airline#extensions#coc#enabled = 1
+	
+	
+	  if !exists('g:airline_symbols')
+	    let g:airline_symbols = {}
+	  endif
+	
+	  " Just show the file name
+	
+	" Disable tabline close button
+	"let g:airline#extensions#tabline#show_close_button = 0
+	"let g:airline#extensions#tabline#show_tab_type = 0
+	"let g:airline#extensions#tabline#show_tab_nr = 0
+	"let g:airline#extensions#tabline#fnamecollapse = 1
+	
+	let g:airline_extensions = ['branch', 'hunks', 'coc',]
+	
+	
+	" enable tabline
+	" enable powerline fonts
+	let g:airline_left_sep = ''
+	let g:airline_left_alt_sep = ''
+	let g:airline_right_sep = ''
+	let g:airline_right_alt_sep = ''
+	let g:airline_symbols.branch = ''
+	let g:airline_symbols.readonly = ''
+	let g:airline_symbols.linenr = '☰'
+	let g:airline_symbols.maxlinenr = ''
+	let g:airline_symbols.dirty='⚡'
+	
+	
+	"let g:airline#extensions#tabline#buffers_label = ''
+	"let g:airline#extensions#tabline#tabs_label = ''
+	"let g:airline#extensions#tabline#enabled = 1
+	"let g:airline#extensions#tabline#fnamemod = ':t'
+	"let g:airline#extensions#tabline#formatter = 'unique_tail'
+	" tablline powerline fonts
+	"let airline#extensions#tabline#show_splits = 1
+	"let g:airline#extensions#tabline#left_sep = 1
+	"let g:airline#extensions#tabline#left_alt_sep = 1
+	"let g:airline#extensions#tabline#right_sep = 1
+	"let g:airline#extensions#tabline#right_alt_sep = 1
+	"let airline#extensions#tabline#tabs_label = ''
+	
+	
+	let g:airline#extensions#default#layout = [['a', 'b', 'c'], ['x', 'z', 'warning', 'error']]
+	" let g:airline_skip_empty_sections = 1
+	
+	let g:airline_section_c = airline#section#create([''])
+	" let g:airline_section_z = airline#section#create(['linenr'])
+	
+	" Switch to your current theme
+	 let g:airline_theme = 'dracula'
+	
+	" Always show tabs
+	set showtabline=2
+	
+	" Sections
+	" let g:airline_section_c=''
+	""let g:airline_section_a = " NySgVim"
+	"let g:airline_section_a = ""
+	""let g:airline_section_y = ''
+	let g:webdevicons_enable_airline_tabline = 1
+	
+	
+	
+	"VIMTEX
+	"VIMTEX
+	"VIMTEX
+	
+	
+02e90b0eefc962e07f708e2e27a474e8|file:///home/nysg/.config/nvim/plugins/airline.vim|1|1|v|vim
+	      nysg@nysg-machine 
+	                   ooo:                     ----------------- 
+	                  yoooo/                    OS: ArcoLinux 
+	                 yooooooo                   Kernel: 5.8.7-arch1-1 
+	                yooooooooo                  Uptime: 3 mins 
+	               yooooooooooo                 Packages: 1482 (pacman) 
+	             .yooooooooooooo                Shell: zsh 5.8 
+	            .oooooooooooooooo               Resolution: 1920x1080, 1360x768 
+	           .oooooooarcoooooooo              DE: Xfce 4.14 
+	          .ooooooooo-oooooooooo             WM: Xfwm4 
+	         .ooooooooo-  oooooooooo            WM Theme: Arc-Dark 
+	        :ooooooooo.    :ooooooooo           Theme: Arc-Dark [GTK2/3] 
+	       :ooooooooo.      :ooooooooo          Icons: Sardi-Arc [GTK2/3] 
+	      :oooarcooo         .oooarcooo         Terminal: kitty 
+	     :ooooooooy           .ooooooooo        Terminal Font: FiraCode-Regular 13.0 
+	    :ooooooooo   /ooooooooooooooooooo       CPU: AMD Ryzen 5 1600 (12) @ 3.200GHz 
+	   :ooooooooo      .-ooooooooooooooooo.     GPU: NVIDIA GeForce GTX 1060 6GB 
+	  ooooooooo-             -ooooooooooooo.    Memory: 771MiB / 16005MiB (4%) 
+	 ooooooooo-                 .-oooooooooo.
+	ooooooooo.                     -ooooooooo                           
+	                                                                    
+	
+	
+	┌─(~)─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────(nysg@nysg-machine:pts/0)─┐
+	
+a682527579e8364fcd0c598cc750c4fa|file:///home/nysg/.config/nvim/init.vim|27|1|V|vim
+	
+	let g:javascript_highlight_all=1 
+	let g:typescript_highlight_all=1 
+	
+	
+	hi Comment cterm=italic
+	let g:nvcode_hide_endofbuffer=1
+	let g:nvcode_terminal_italics=1
+	let g:nvcode_termcolors=256
+	
+	syntax on
+	colorscheme dracula
+	
+	
+	" checks if your terminal has 24-bit color support
+	if (has("termguicolors"))
+	    set termguicolors
+	    hi LineNr ctermbg=NONE guibg=NONE
+	endif
+	
+	
+	let g:airline#extensions#coc#enabled = 1
+	
+	
+	  if !exists('g:airline_symbols')
+	    let g:airline_symbols = {}
+	  endif
+	
+	  " Just show the file name
+	
+	" Disable tabline close button
+	"let g:airline#extensions#tabline#show_close_button = 0
+	"let g:airline#extensions#tabline#show_tab_type = 0
+	"let g:airline#extensions#tabline#show_tab_nr = 0
+	"let g:airline#extensions#tabline#fnamecollapse = 1
+	
+	let g:airline_extensions = ['branch', 'hunks', 'coc',]
+	
+	
+	" enable tabline
+	" enable powerline fonts
+	let g:airline_left_sep = ''
+	let g:airline_left_alt_sep = ''
+	let g:airline_right_sep = ''
+	let g:airline_right_alt_sep = ''
+	let g:airline_symbols.branch = ''
+	let g:airline_symbols.readonly = ''
+	let g:airline_symbols.linenr = '☰'
+	let g:airline_symbols.maxlinenr = ''
+	let g:airline_symbols.dirty='⚡'
+	
+	
+	"let g:airline#extensions#tabline#buffers_label = ''
+	"let g:airline#extensions#tabline#tabs_label = ''
+	"let g:airline#extensions#tabline#enabled = 1
+	"let g:airline#extensions#tabline#fnamemod = ':t'
+	"let g:airline#extensions#tabline#formatter = 'unique_tail'
+	" tablline powerline fonts
+	"let airline#extensions#tabline#show_splits = 1
+	"let g:airline#extensions#tabline#left_sep = 1
+	"let g:airline#extensions#tabline#left_alt_sep = 1
+	"let g:airline#extensions#tabline#right_sep = 1
+	"let g:airline#extensions#tabline#right_alt_sep = 1
+	"let airline#extensions#tabline#tabs_label = ''
+	
+	
+	let g:airline#extensions#default#layout = [['a', 'b', 'c'], ['x', 'z', 'warning', 'error']]
+	" let g:airline_skip_empty_sections = 1
+	
+	let g:airline_section_c = airline#section#create([''])
+	" let g:airline_section_z = airline#section#create(['linenr'])
+	
+	" Switch to your current theme
+	 let g:airline_theme = 'dracula'
+	
+	" Always show tabs
+	set showtabline=2
+	
+	" Sections
+	" let g:airline_section_c=''
+	""let g:airline_section_a = " NySgVim"
+	"let g:airline_section_a = ""
+	""let g:airline_section_y = ''
+	let g:webdevicons_enable_airline_tabline = 1
+	
+57d9fe1bede622be8a0b4f8c0bcc9a3a|file:///home/nysg/.config/nvim/init.vim|30|1|v|vim
+	
+	let g:javascript_highlight_all=1 
+	let g:typescript_highlight_all=1 
+	
+	
+	hi Comment cterm=italic
+	let g:nvcode_hide_endofbuffer=1
+	let g:nvcode_terminal_italics=1
+	let g:nvcode_termcolors=256
+	
+	syntax on
+	colorscheme dracula
+	
+	
+	" checks if your terminal has 24-bit color support
+	if (has("termguicolors"))
+	    set termguicolors
+	    hi LineNr ctermbg=NONE guibg=NONE
+	endif
+	
+	
+	let g:airline#extensions#coc#enabled = 1
+	
+	
+	  if !exists('g:airline_symbols')
+	    let g:airline_symbols = {}
+	  endif
+	
+	  " Just show the file name
+	
+	" Disable tabline close button
+	"let g:airline#extensions#tabline#show_close_button = 0
+	"let g:airline#extensions#tabline#show_tab_type = 0
+	"let g:airline#extensions#tabline#show_tab_nr = 0
+	"let g:airline#extensions#tabline#fnamecollapse = 1
+	
+	let g:airline_extensions = ['branch', 'hunks', 'coc',]
+	
+	
+	" enable tabline
+	" enable powerline fonts
+	let g:airline_left_sep = ''
+	let g:airline_left_alt_sep = ''
+	let g:airline_right_sep = ''
+	let g:airline_right_alt_sep = ''
+	let g:airline_symbols.branch = ''
+	let g:airline_symbols.readonly = ''
+	let g:airline_symbols.linenr = '☰'
+	let g:airline_symbols.maxlinenr = ''
+	let g:airline_symbols.dirty='⚡'
+	
+	
+	"let g:airline#extensions#tabline#buffers_label = ''
+	"let g:airline#extensions#tabline#tabs_label = ''
+	"let g:airline#extensions#tabline#enabled = 1
+	"let g:airline#extensions#tabline#fnamemod = ':t'
+	"let g:airline#extensions#tabline#formatter = 'unique_tail'
+	" tablline powerline fonts
+	"let airline#extensions#tabline#show_splits = 1
+	"let g:airline#extensions#tabline#left_sep = 1
+	"let g:airline#extensions#tabline#left_alt_sep = 1
+	"let g:airline#extensions#tabline#right_sep = 1
+	"let g:airline#extensions#tabline#right_alt_sep = 1
+	"let airline#extensions#tabline#tabs_label = ''
+	
+	
+	let g:airline#extensions#default#layout = [['a', 'b', 'c'], ['x', 'z', 'warning', 'error']]
+	" let g:airline_skip_empty_sections = 1
+	
+	let g:airline_section_c = airline#section#create([''])
+	" let g:airline_section_z = airline#section#create(['linenr'])
+	
+	" Switch to your current theme
+	 let g:airline_theme = 'dracula'
+	
+	" Always show tabs
+	set showtabline=2
+	
+	" Sections
+	" let g:airline_section_c=''
+	""let g:airline_section_a = " NySgVim"
+	"let g:airline_section_a = ""
+	""let g:airline_section_y = ''
+	let g:webdevicons_enable_airline_tabline = 1
+	
+	
+	
+582c6d0860e5a11f1f384266cca04916|file:///home/nysg/.config/nvim/init.vim|31|1|V|vim
+	"VIMTEX
+	"VIMTEX
+09b5d18509108cb177c3c7fd47162c3f|file:///home/nysg/.config/nvim/init.vim|34|1|V|vim
+	
+	let g:tex_flavor = 'latex'
+0185e84d57d9fe295b87635ea2305b79|file:///home/nysg/.config/nvim/init.vim|34|1|V|vim
+	
+	let g:vimtex_view_method = 'mupdf'
+e79d4b0ae2280a89a3975dfc398766d2|file:///home/nysg/.config/nvim/init.vim|5|3|V|vim
+	  "Theme
+078c335d239445c925c576743a7b8164|file:///home/nysg/.config/nvim/plugins/airline.vim|23|1|V|vim
+	rstat
+2b522a28e8c562c12e4193eaa4dbd73e|file:///home/nysg/.config/nvim/plugins/airline.vim|15|1|V|vim
+	hi Normal guibg=NONE ctermbg=NONE
+6e6adc05b37d859e7344909aff5dd7f2|file:///home/nysg/.config/nvim/plugins/airline.vim|15|11|v|vim
+	guibg
+1d3f559dcf2dea24ab03b89690e901be|file:///home/nysg/.config/nvim/plugins/airline.vim|15|11|v|vim
+	NONE 
+975ee904429bf43c2a609f3521cb7abb|file:///home/nysg/.config/nvim/plugins/airline.vim|15|11|v|vim
+	ctermbg
+8a34d8af56772463c0e5fa8d3802f8ba|file:///home/nysg/.config/nvim/plugins/airline.vim|15|1|V|vim
+	hi Normal guibg=NONE
+b50339a10e1de285ac99d4c3990b8693|file:///home/nysg/.config/nvim/plugins/airline.vim|15|31|v|vim
+	NONE
+d1f249e6af7750702b3c65ddf882ec04|file:///home/nysg/.config/nvim/plugins/airline.vim|20|1|V|vim
+	    hi LineNr ctermbg=NONE guibg=NONE
+0cf31b2c283ce3431794586df7b0996d|file:///home/nysg/.config/nvim/plugins/airline.vim|17|1|v|vim
+	    
+362b3960edca290dedfe9990cbbaf23f|file:///home/nysg/.config/nvim/plugins/airline.vim|16|1|V|vim
+	hi LineNr ctermbg=NONE guibg=NONE
+fccaf386098c7a9a1708fbf681e3361f|file:///home/nysg/.config/nvim/plugins/airline.vim|15|1|V|vim
+	hi Normal guibg=Black ctermbg=Black
+030c5b6d1e5715105943ac111d9671bf|file:///home/nysg/.config/nvim/plugins/airline.vim|16|17|v|vim
+	italic
+7819fde070a41470825dd75199948c5d|file:///home/nysg/.config/nvim/plugins/airline.vim|16|1|V|vim
+	hi Normal guibg=
+e4439efdf0aab49959ab9b273732de83|file:///home/nysg/.config/nvim/plugins/airline.vim|15|17|v|vim
+	Black 
+e90dfb84e30edf611e326eeb04d680de|file:///home/nysg/.config/nvim/plugins/airline.vim|15|30|v|vim
+	Black
+fe89c95a92172a2a76ec2cd7eb869827|untitled:1|11|1|v|
+	
+	now twei ftnwftoirs
+	tarst
+	arstars
+	tarstar
+	t
+0ca67ce9cfd45a51dceb9c252a9f8c05|untitled:1|10|1|V|
+	
+	artart
+9f9957d331244ad43e1aad95035c5a61|file:///home/nysg/.config/nvim/plugins/airline.vim|17|4|v|vim
+	Normal 
+86e969dd3d51c2123ae6318ca19cb8af|file:///home/nysg/.config/nvim/plugins/airline.vim|19|4|v|vim
+	Directory 
+266f22a350cf26c35f65190568f9e22b|file:///home/nysg/.config/nvim/plugins/airline.vim|19|16|v|vim
+	#a1d2ec 
+77e774e6cc4d94d6a32f6256f02d9552|file:///home/nysg/.config/nvim/plugins/airline.vim|19|29|v|vim
+	#000000
+b5b7515a10a021e4152dc9932d6e8a5e|file:///home/nysg/.config/nvim/plugins/airline.vim|19|11|v|vim
+	guifg
+6c94778d22868c94a3daa771a76010b1|file:///home/nysg/.config/nvim/plugins/airline.vim|18|1|V|vim
+	
+	hi Normal ctermbg=Black
+dc64769183367d32b7cb387ead142bdd|file:///home/nysg/.config/nvim/plugins/airline.vim|17|1|V|vim
+	"hi Directory guibg=#00000  ctermbg=#00000
+1a13b15981a89ddbb4102416241fdd93|file:///home/nysg/.config/nvim/plugins/airline.vim|13|1|V|vim
+	let g:dracula_colorterm = 1
+fea087517c26fadd409bd4b9dc642555|file:///home/nysg/.config/nvim/plugins/airline.vim|26|4|v|vim
+	normal
+e81735c7e91083d54bc53fd7d686c800|file:///home/nysg/.config/nvim/plugins/airline.vim|26|1|V|vim
+	hi Normal ctermbg=Black 
+fff3bc94febc154790698f7148ee2176|file:///home/nysg/.config/nvim/plugins/airline.vim|13|1|V|vim
+	ColorScheme * hi Normal ctermbg=None
+048e5a417308e9f9c608d3ab7d7e0a60|file:///home/nysg/.config/nvim/plugins/airline.vim|21|1|V|vim
+	"hi Normal guibg=NONE ctermbg=NONE
+6adf97f83acf6453d4a6a4b1070f3754|file:///home/nysg/.config/nvim/plugins/airline.vim|17|33|v|vim
+	None
+cb2a43685bdfa87289328363b9a0194d|file:///home/nysg/.config/nvim/plugins/airline.vim|17|1|V|vim
+	colorscheme * hi Normal ctermbg=Black
+dd0bcd9a703f11985fef048064396d36|file:///home/nysg/.config/nvim/plugins/airline.vim|8|1|v|vim
+	let g:nvcode_hide_endofbuffer=1
+	let g:nvcode_terminal_italics=1
+	let g:nvcode_termcolors=256
+	
+	
+45ed9cc2f92b77cd8b2f5bd59ff635f8|file:///home/nysg/.config/nvim/config.vim|51|1|v|vim
+	xxxxxxxxxxxxxxxx
+46dab46279ab4ecb929adb971a632731|file:///home/nysg/.config/nvim/config.vim|42|1|v|vim
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+297a6edf2470400d2d71e43a42e97407|file:///home/nysg/.config/nvim/init.vim|31|1|V|vim
+	st
+	r
+495aae3e7f80aba96eced0a492440019|file:///home/nysg/.config/nvim/init.vim|31|1|V|vim
+	trstar
+d8b919051cf7220df21dd1f1d1219802|untitled:1|9|1|V|
+	hola vc
+13d20ac0941dad6c975bb06b3e85136c|untitled:1|3|1|v|
+	
+	
+	
+	
+	
+	
+	hhhhhhhhhh
+	
+	
+	
+	
+	
+	
+	
+	
+	
+3bb819516a0aa6cd9415e637b377a2e5|untitled:1|18|20|v|
+	ecnuest
+d8e71dbd1afc289a4b102eeadeb6f363|untitled:1|2|1|V|
+	kkkkkkk
+fa87bea94784035003a0ad26f803672e|file:///home/nysg/.config/nvim/init.vim|33|1|V|vim
+	                  hola 
+	
+b308b7fe5c1c2bbdc0cb686d451b84aa|file:///home/nysg/.config/nvim/init.vim|31|1|V|vim
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+29b81bd250c148cf48215bc0d3b0fbc0|file:///home/nysg/.xinitrc|24|2|v|sh
+	waaaaaaaaaaaaaa
+aa385c4aee794b3b3b0338a25c29e5c7|file:///home/nysg/.xinitrc|18|1|V|sh
+	xset r rate 210 40
+7783ae8cd915543f2a5cdfd82281aba1|file:///home/nysg/.xinitrc|18|1|V|sh
+	ifnames
+2dd9b6a060e9036f541cd8a5cbd95f39|file:///home/nysg/.zshrc|267|1|v|zsh
+	liast 
+419bd0612dbfefad9d051fc86dd2929b|file:///home/nysg/.bashrc|184|19|V|sh
+	#Personal shortcuts
+	
+1656c5de6f1e1ee8336d0a6d49f5cf30|file:///home/nysg/.config/nvim/init.vim|3|1|V|vim
+	rstr 
+ae2183d87274f2d0a02f23c4302137b3|file:///home/nysg/.config/nvim/init.vim|2|28|V|vim
+	let g:ale_sign_error = ''
+	let g:ale_sign_warning = ''
+d47e3b9fef5708478907ab816e20c8e3|file:///home/nysg/.config/nvim/init.vim|19|1|V|vim
+	let g:ale_sign_error = ''
+e8b22da505898510a53645a3e439a23b|file:///home/nysg/.config/nvim/init.vim|1|1|V|vim
+	let let 
+024d946df2b46ca01c571650abc454ac|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|147|1|V|tex
+	\estaciones
+d8f7183c4b273753a4fae62b77c64026|file:///home/nysg/.config/nvim/init.vim|19|1|V|vim
+	rstas
+5671e9c9a6fcd09082e36e7e6f41d99a|file:///home/nysg/test.js|1|1|V|javascript
+	conle.log("hola");
+	
+219503fa204ef96044ae9872165c27e4|file:///home/nysg/test.js|1|1|V|javascript
+	console.log(hola);
+30cf4430efa2cb6f33c9207704816a84|file:///home/nysg/test.ts|1|1|V|typescript
+	console.log(hola);
+	
+e9e71a5bc6bc0a7d54b22deabb17de4c|file:///home/nysg/test.ts|1|1|V|typescript
+	console.log("Hola")
+d746d210cd49a7dba9162e0c3c2264b0|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|26|1|V|tex
+	\rtratar
+bebdd119c4e285fcd60300b96b9bc1a1|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|100|1|V|tex
+	\pene
+67434e53684c3bc1e1b74d0ee53b8a6e|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|86|1|V|tex
+	\arst
+d8e01ba7cf8837cf97fe59bb30a8df5c|file:///home/nysg/.config/nvim/init.vim|16|3|V|vim
+	  Plug 'SirVer/ultisnips'    
+429079e52f342c49301a02e207bfde06|file:///home/nysg/.config/nvim/init.vim|37|1|v|vim
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+b7b530e169f45c731ed327198d8b690b|file:///home/nysg/.config/nvim/init.vim|14|1|V|vim
+	let 
+2c6eb67c8897d916ae47524b1a844d3f|file:///home/nysg/.config/nvim/plugins/vimtex.vim|9|1|v|vim
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+035a4fb09a24f2c25bcd13312ba58961|file:///home/nysg/.config/nvim/coc-settings.json|34|38|v|json
+	userSnippetsDirectory
+51ee8af29ffdef04848fda9e9bd970b7|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|26|1|V|tex
+	<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand<Plug>()coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)<Plug>(coc-snippets-expand)
+3c9049c2a24bd2bc1bf5b0f27c351903|file:///home/nysg/.config/nvim/coc-settings.json|34|1|V|json
+	  "snippets.userSnippetsDirectory": "~/.config/nvim/autoload/plugged/vim-snippets/UltiSnips/",
+6e898ab0ede962f97ec5217cf6be1ad4|file:///home/nysg/.config/nvim/coc-settings.json|34|2|V|json
+	  
+	  "snippets.userSnippetsDirectory": "~/.config/nvim/autoload/plugged/vim-snippets/UltiSnips/",
+12bc59cc4cdd2642b75db0b92529c122|file:///home/nysg/.config/nvim/coc-settings.json|34|1|V|json
+	  "snippets.ultisnips.directories": ["UltiSnips", "~/.config/nvim/snips"],
+ad1f364ca0e75081f129f7ee356986b0|file:///home/nysg/.config/nvim/coc-settings.json|12|1|V|json
+	https://https://youtu.be/x1iGMJ_ZeBghttps://youtu.be/x1iGMJ_ZeBgyoutu.be/x1iGMJ_ZeBg
+4fc7f78e82e903f3029b20fa6a6d6dee|file:///home/nysg/.config/nvim/init.vim|4|3|V|vim
+	  Plug 'christianchiarulli/nvcode.vim'
+69032b2ddd53b635cc6ac48601bc8ca4|file:///home/nysg/.config/nvim/init.vim|4|3|V|vim
+	  Plug 'vim-airline/vim-airline-themes'
+0664f8c2c709e18ac5413fd3278d60ce|file:///home/nysg/.config/nvim/init.vim|4|3|V|vim
+	  Plug 'vim-airline/vim-airline'
+a8e957b2cc06f55b7686db088917b691|file:///home/nysg/.config/nvim/init.vim|4|3|V|vim
+	  Plug 'dracula/vim', { 'as': 'dracula' }
+42b0d2d67cdf1d5f246a32b792fdc3f9|file:///home/nysg/.config/nvim/init.vim|4|3|V|vim
+	  Plug 'mg979/vim-xtabline'
+d7d29e92dad6677d32cb35d330b39b1c|file:///home/nysg/.config/nvim/init.vim|4|3|V|vim
+	  Plug 'neoclide/coc.nvim', {'branch':'release'}
+9bb5313e09ac17358cee48efc07dcdc2|file:///home/nysg/.config/nvim/init.vim|4|3|V|vim
+	  Plug 'lervag/vimtex'
+d4229967a3cb3177a622ffbf112c1152|file:///home/nysg/.config/nvim/init.vim|4|3|V|vim
+	  Plug 'dense-analysis/ale'
+ed445e196766a06eb8efcfa847f7b75f|file:///home/nysg/.config/nvim/init.vim|4|3|V|vim
+	  Plug 'honza/vim-snippets'
+fe41e452abdf891614cc184a19b7b216|file:///home/nysg/.config/nvim/init.vim|4|1|V|vim
+	call plug#end()
+44d12912db2e127c346e48519719adbf|file:///home/nysg/.config/nvim/init.vim|4|1|V|vim
+	let g:ale_sign_warning = ''
+f53e7b4bc7079bf96c6bcca56c5c8c44|file:///home/nysg/.config/nvim/init.vim|4|1|V|vim
+	"General Configuration
+62835b9a481107e99e6470e779eff232|file:///home/nysg/.config/nvim/init.vim|4|1|V|vim
+	source $HOME/.config/nvim/config.vim
+f8220efcf8f01849093bba4bf0d7f025|file:///home/nysg/.config/nvim/init.vim|4|1|V|vim
+	"Shortcuts configuration
+a48877187621a99e7568e3e660ed4cc1|file:///home/nysg/.config/nvim/init.vim|4|1|V|vim
+	source $HOME/.config/nvim/shortcuts/shortcuts.vim
+e5174780248ccea4011239330ef190ce|file:///home/nysg/.config/nvim/init.vim|4|1|V|vim
+	"CoC Configuration
+c48a87b352fc756f634890a9f1b767ae|file:///home/nysg/.config/nvim/init.vim|4|1|V|vim
+	source $HOME/.config/nvim/plugins/coc.vim
+cf029a5e2565ad66fa1d0ea31d502d31|file:///home/nysg/.config/nvim/init.vim|4|1|V|vim
+	"Airline Configuration (Theming basically)
+2d93cc060a394979ac6ee7a55bc966cb|file:///home/nysg/.config/nvim/init.vim|4|1|V|vim
+	source $HOME/.config/nvim/plugins/airline.vim
+af272c16a0cacd96c4fc61c50b3b66b0|file:///home/nysg/.config/nvim/init.vim|4|1|V|vim
+	"VIMTEX
+b935bd648ef6eac6de4a90b6c589231e|file:///home/nysg/.config/nvim/init.vim|4|1|V|vim
+	"TODO Read the entire Documentation of Vimtex and put linting, snippets (custom or madeup) and some shit  
+e08b2f062038a6c4b846a865ad40c1f5|file:///home/nysg/.config/nvim/init.vim|4|1|V|vim
+	source $HOME/.config/nvim/plugins/vimtex.vim
+e798202495953ac77fa9a882a4b68f26|file:///home/nysg/.config/nvim/init.vim|3|1|V|vim
+	call plug#begin('~/.config/nvim/autoload/plugged')
+8e621e37dba3acdc2a94084a8827c3df|file:///home/nysg/.config/nvim/init.vim|1|1|V|vim
+	"let g:ale_disable_lsp
+3ab90a4644caa379b5e548d928b6d846|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|25|1|V|tex
+	\textsc{}
+b1269123bcbae1b1dca6ef58e8513e95|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|26|1|V|tex
+	Section~\ref{sec:} 
+72911a8575411bbd5045d1ec868f1b85|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|74|1|V|tex
+	  \includegraphics[scale=begin]{Figures/}
+	\end{center}
+c7fa9739da8556a55293c1bb28b089dd|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|73|1|V|tex
+	\begin{center}
+	\caption{}
+374849d9adc8202aebcb9063e5ca6724|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|73|1|V|tex
+	\label{fig:}
+	\end{figure}
+e372fa582da32b3d26397041f87db089|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|72|1|V|tex
+	\begin{figure}
+0498cd39c44addd3f6b8a5c5f1f331b7|file:///home/nysg/.bashrc-personal|1|1|v|sh
+	#Personal aliases
+	
+	alias nvimrc="nvim ~/.config/nvim/init.vim"
+	
+	
+cf765928eff5ff2baa60a59b84844504|file:///home/nysg/.config/nvim/init.vim|14|1|V|vim
+	  Plug 'tpope/vim-commentary'
+850dbc4112ab1785b4fe2b1d603780c7|file:///home/nysg/.config/nvim/init.vim|16|2|V|vim
+	call plug#end()
+	
+27fd3652867a37b8a530bc1f3586cf08|file:///home/nysg/Colegio/Stahler/Actividad1_SitemaFMS/index.tex|1|1|V|tex
+	%\documentclass[a4paper]{article}
+32222a1c0a3b68c23238ca00c2590431|file:///home/nysg/.config/nvim/init.vim|87|1|V|vim
+	" TODO add separate section for vscode
+d63332775afc984961a442b8fc2ef90d|file:///home/nysg/.config/nvim/init.vim|78|1|v|vim
+	
+	let g:EasyMotion_do_mapping = 0 " Disable default mappings
+	 " Turn on case-insensitive feature
+	 let g:EasyMotion_smartcase = 1
+	
+	" " JK motions: Line motions
+	 map <Leader>j <Plug>(easymotion-j)
+	 map <Leader>k <Plug>(easymotion-k)
+	
+	 nmap s <Plug>(easymotion-s2)
+	 nmap t <Plug>(easymotion-t2)
+	
+	
+	 map  <Leader>f <Plug>(easymotion-bd-f)
+	 nmap <Leader>f <Plug>(easymotion-overwin-f)
+	
+	 s{char}{char} to move to {char}{char}
+	 nmap s <Plug>(easymotion-s2)
+	 map  n <Plug>(easymotion-next)
+	 map  N <Plug>(easymotion-prev)
+	 nmap s <Plug>(easymotion-overwin-f2)
+	 nmap S <Plug>(easymotion-overwin-t)
+	
+	" Move to line
+	 map <Leader>l <Plug>(easymotion-bd-jk)
+	 nmap <Leader>l <Plug>(easymotion-overwin-line)
+	
+	" " Move to word
+	 map  <Leader>w <Plug>(easymotion-bd-w)
+	 nmap <Leader>w <Plug>(easymotion-overwin-w)
+	
+	 hi link EasyMotionTarget ErrorMsg
+	 hi link EasyMotionShade  Comment
+	
+	 hi link EasyMotionTarget2First MatchParen
+	 hi link EasyMotionTarget2Second MatchParen
+	
+	 hi link EasyMotionMoveHL Search
+	 hi link EasyMotionIncSearch Search
+	
+	"Lower case finds upper & lower case but upper case only finds upper case
+	 let g:EasyMotion_smartcase = 1
+	
+	
+	
+f481ceeb01f825b0d03fac54a31d1886|file:///home/nysg/.config/nvim/init.vim|100|1|v|vim
+	" Start interactive EasyAlign in visual mode (e.g. vipga)
+	xmap <leader>ga <Plug>(EasyAlign)
+	
+	apple   =red
+	grass+=green
+	sky-=   blue
+	
+	
+745be56eecd9e3e60d8731897f1f8efb|file:///home/nysg/.config/nvim/init.vim|17|1|V|vim
+	  Plug 'junegunn/vim-easy-align'
+44a4c697aba6e793c28e6f6372d87d5b|file:///home/nysg/.config/nvim/init.vim|103|1|V|vim
+	apple   =red
+	grass+=green
+a0bcdc260571192b8a3945a9bdf8eac9|file:///home/nysg/.config/nvim/init.vim|103|1|V|vim
+	sky-=   blue
+	
+6e43a119ef576a5faa4184e032a2904b|file:///home/nysg/.config/nvim/init.vim|102|1|v|vim
+	
+	apple   =red
+	grass+=green
+	sky-=   blue
+	
+	
+0cec16f8d3538c42ba8cf7a20387cdbe|file:///home/nysg/.config/nvim/init.vim|102|1|v|vim
+	
+	apple   =red
+	grass+=green
+	sky-=   blue
+	
+	
+	
+070101bb1e7038937fa70031dcb710a8|file:///home/nysg/.config/nvim/init.vim|100|1|v|vim
+	" Start interactive EasyAlign in visual mode (e.g. vipga)
+	xmap <leader>xa <Plug>(EasyAlign)
+	
+	apple   =red
+	grass+=green
+	sky-=   blue
+	
+	
+	
+cf63024e1c29578c14d11958526d9bab|file:///home/nysg/.config/nvim/init.vim|82|1|V|vim
+	" s{char}{char} to move to {char}{char}
+8eba0b862f2ba543437604771ba039c1|file:///home/nysg/.config/nvim/init.vim|91|1|V|vim
+	nmap <Leader>w <Plug>(easymotion-overwin-w)
+bc3cdcd1b7a3cc6996bab53529bfb965|file:///home/nysg/.config/nvim/init.vim|25|1|V|vim
+	"General Configuration
+	source $HOME/.config/nvim/config.vim
+7540a8362ace87c8b6336d91bfdc5931|file:///home/nysg/.config/nvim/init.vim|98|1|v|vim
+	let g:qs_highlight_on_keys = ['f', 'F']
+f4b9bf43ab59678fd07378251d2e4b9a|file:///home/nysg/.config/nvim/init.vim|98|1|v|vim
+	"let g:qs_highlight_on_keys = ['f', 'F']"
+44025121029be7d1202f26bebda2d546|file:///home/nysg/.config/nvim/init.vim|100|1|V|vim
+	rastsar
+2f157d89f50f2c7da0a5407f32e19be0|file:///home/nysg/.config/nvim/init.vim|100|1|V|vim
+	rastsar
+	RSASR
+50471a8694a5ec2c319e8a35c26a1d8f|file:///home/nysg/.config/nvim/shortcuts/shortcuts.vim|31|1|V|vim
+	
+	tsrtr
+033bd94b1168d7e4f0d644c3c95e35bf|file:///home/nysg/.config/nvim/shortcuts/shortcuts.vim|30|1|V|vim
+	TEST
+8f3b6afe1b18c54fc52d5ff0171f8713|file:///home/nysg/.config/nvim/shortcuts/shortcuts.vim|29|1|V|vim
+	strst
+17bff6f4b3109d5396775d2fb1efc43d|file:///home/nysg/.config/nvim/shortcuts/shortcuts.vim|29|1|V|vim
+	sasasasasa
+9ef2679db0836c85dcd64967646eb53e|file:///home/nysg/.config/nvim/shortcuts/shortcuts.vim|30|1|V|vim
+	PENEPENEPENEPENEPENEPENE
+fd4723350745a177c6068ad53f477866|file:///home/nysg/.config/nvim/shortcuts/shortcuts.vim|28|1|V|vim
+	ratarst
+16bc0aef9d0da10104659c3d61458324|file:///home/nysg/.config/nvim/shortcuts/shortcuts.vim|29|1|V|vim
+	rstrta
+8b65a4e66977c137b2141d9553c1f596|file:///home/nysg/.config/nvim/shortcuts/shortcuts.vim|29|1|V|vim
+	ARSARAa
+c8638baca5c0d053718a36d966361673|file:///home/nysg/.config/nvim/init.vim|37|1|V|vim
+	dola
+b3f0b240b06caf3dd22bd049da6fcaad|file:///home/nysg/.config/nvim/init.vim|37|1|V|vim
+	ARSAR
+19ef53ae337c6da0a79b668e3b2cd677|file:///home/nysg/.config/nvim/shortcuts/shortcuts.vim|45|1|v|vim
+	tnoremap <C-h> <C-\><C-N><C-w>h
+	tnoremap <C-j> <C-\><C-N><C-w>j
+	tnoremap <C-k> <C-\><C-N><C-w>k
+	tnoremap <C-l> <C-\><C-N><C-w>l
+	inoremap <C-h> <C-\><C-N><C-w>h
+	inoremap <C-j> <C-\><C-N><C-w>j
+	inoremap <C-k> <C-\><C-N><C-w>k
+	inoremap <C-l> <C-\><C-N><C-w>l
+	t
+d7a263dd6a5186b41468c2b71b5421fe|file:///home/nysg/.config/nvim/shortcuts/shortcuts.vim|30|1|v|vim
+	arstart
+ee581e1a409cdcf7c514fc4c4c44ee77|file:///home/nysg/.config/nvim/shortcuts/shortcuts.vim|30|1|V|vim
+	rttr
+927205be594f5937f4147d01fcdb1ce1|file:///home/nysg/.config/nvim/shortcuts/shortcuts.vim|31|1|V|vim
+	ARST
+e2737ab8f6cde2cb3b31ea742a2c975b|file:///home/nysg/.config/nvim/shortcuts/shortcuts.vim|34|1|V|vim
+	inoremap <C-:> <ESC>viwui
+a7160831f90c30e542484d4419692d23|file:///home/nysg/.config/nvim/init.vim|100|1|v|vim
+	rstrst
+8e7b461cb7ff526b5de524adea1ab218|file:///home/nysg/.config/nvim/init.vim|98|1|V|vim
+	let g:qs_highlight_on_keys = ['f', 'F']
+	
+8063385f213a8c1a827832bde3c76d61|file:///home/nysg/.config/nvim/init.vim|100|1|V|vim
+	"let"
+2c264a955b696d271532828b4d037743|file:///home/nysg/.config/nvim/init.vim|100|1|v|vim
+	let g:qs_highlight_on_keys 
+0f995d56da0746b8b9f0652fccd8d4b6|file:///home/nysg/.config/nvim/init.vim|100|7|v|vim
+	qs_highlight_on_keys
+56f76806fa58b0269f8f128fbc0a09ee|file:///home/nysg/.config/nvim/init.vim|100|1|V|vim
+	let g:<em>qs_highlight_on_keys</em> = ['f', 'F']
+c71e200cdba92f9a4d9fc57bda3d5bc1|file:///home/nysg/.config/nvim/init.vim|100|1|V|vim
+	sdsrrr
+ff6cb8fb140f1619331009592b9a3bf6|file:///home/nysg/.config/nvim/init.vim|100|30|v|vim
+	"f", "F"
+89453dcf16746bbb1ab19d48747bcacf|file:///home/nysg/.config/nvim/init.vim|100|1|V|vim
+	let g:qs_highlight_on_keys = ""f", "F""
+a1562af9ed8a68df33745fe8af28bc7b|file:///home/nysg/.config/nvim/init.vim|98|30|v|vim
+	'f', 'F'
+8a3310269b85e067c22325d5baa46edc|file:///home/nysg/.config/nvim/init.vim|98|30|v|vim
+	'f", "F'
+	
+86fb269d190d2c85f6e0468ceca42a20|file:///home/nysg/.config/nvim/init.vim|98|30|v|vim
+	Hello world!
+b85006f71c71b59c39bf0a6f93aba22a|file:///home/nysg/.config/nvim/init.vim|98|30|v|vim
+	<q></q>
+3e25960a79dbc69b674cd4ec67a72c62|file:///home/nysg/.config/nvim/init.vim|98|30|v|vim
+	Hello world
+056d1a22e72e88db13377c2f5b7c907b|file:///home/nysg/.config/nvim/init.vim|98|1|V|vim
+	let g:qs_highlight_on_keys = { Hello world }!
+2803f5694d7f67d522844b4dbfec115c|file:///home/nysg/.config/nvim/init.vim|97|1|V|vim
+	" Trigger a highlight only when pressing f and F.
+8ba5e63d33aa48f32e4841f42910853c|file:///home/nysg/.config/nvim/init.vim|97|1|v|vim
+	rstasart
+a4f3cc583618738ff8d1e73a0d2619ef|file:///home/nysg/.config/nvim/init.vim|97|1|V|vim
+	<p=class="LOL>rstasart</p=class="LOL> 
+990ae08623d7d1f2ff701966ec85d74a|file:///home/nysg/.config/nvim/init.vim|96|1|V|vim
+	rtrstrs
+aad65251aa0f96d668f0132c91f56842|file:///home/nysg/.config/nvim/init.vim|96|1|V|vim
+	
+	trstrs
+0d711051a3507abbe8474b1e5221f0ed|file:///home/nysg/.config/nvim/init.vim|98|1|v|vim
+	let g:sneak#label = 1
+	
+	" case insensitive sneak
+	let g:sneak#use_ic_scs = 1
+	
+	" imediately move tot the next instance of search, if you move the cursor sneak is back to default behavior
+	let g:sneak#s_next = 1
+	
+	" remap so I can use , and ; with f and t
+	map <leader>gS <Plug>Sneak_,
+	map <leader>gs <Plug>Sneak_;
+	
+	" Change the colors
+	highlight Sneak guifg=black guibg=#00C7DF ctermfg=black ctermbg=cyan
+	highlight SneakScope guifg=red guibg=yellow ctermfg=red ctermbg=yellow
+	
+	" Cool prompt
+	let g:sneak#prompt = '🔎 '
+	
+	" I like quickscope better for this since it keeps me in the scope of a single line
+	" map f <Plug>Sneak_f
+	" map F <Plug>Sneak_F
+	" map t <Plug>Sneak_t
+	" map T <Plug>Sneak_T
+	
+	
+	" Useful info
+	
+	" s<Enter>                 | Repeat the last Sneak.
+	" S<Enter>                 | Repeat the last Sneak, in reverse direction.
+	
+	" silent! call repeat#set("\<Plug>Sneak_s", v:count)
+	" silent! call repeat#set("\<Plug>Sneak_S", v:count)
+	
+	
+c0fd26006a26d05d0848cc86cab217c6|file:///home/nysg/.config/nvim/init.vim|19|3|V|vim
+	  Plug 'justinmk/vim-sneak'
+09baa3c31bda8a421003340be1246ed5|file:///home/nysg/.config/nvim/init.vim|21|1|v|vim
+	Plug 'luochen1990/rainbow'
+e496f57a35b5f51e4ea3ebd55127578e|file:///home/nysg/.config/nvim/init.vim|143|1|V|vim
+	(((((((((((((((((((((((((((((())))))))))))))))))))))))))))))
+924dbfc11812b9446b3f833ecfe261b4|file:///home/nysg/aaa.ts|1|1|V|typescript
+	console.log("testing");
+ec5fccdca5cfd41a4a510d2e27cc277c|file:///home/nysg/.config/nvim/plugins/airline.vim|57|1|v|vim
+	"let g:airline#extensions#tabline#enabled = 1
+	"let g:airline#extensions#tabline#fnamemod = ':t'
+	"let g:airline#extensions#tabline#formatter = 'unique_tail'
+	" tablline powerline fonts
+	"let airline#extensions#tabline#show_splits = 1
+	"let g:airline#extensions#tabline#left_sep = 1
+	"let g:airline#extensions#tabline#left_alt_sep = 1
+	"let g:airline#extensions#tabline#right_sep = 1
+	"let g:airline#extensions#tabline#right_alt_sep = 1
+	"let airli
+7f635514196dc91f4d29cd89c4d77f65|file:///home/nysg/.config/nvim/plugins/airline.vim|55|1|v|vim
+	"let g:airline#extensions#tabline#buffers_label = ''
+	"let g:airline#extensions#tabline#tabs_label = ''
+	
+e11674f622ed82157d1b035037238970|file:///home/nysg/.config/nvim/plugins/airline.vim|54|1|V|vim
+	
+	"let g:airline#extensions#tabline#buffers_label = ''
+	"let g:airline#extensions#tabline#tabs_label = ''
+	"let g:airline#extensions#tabline#enabled = 1
+	"let g:airline#extensions#tabline#fnamemod = ':t'
+	"let g:airline#extensions#tabline#formatter = 'unique_tail'
+	" tablline powerline fonts
+	"let airline#extensions#tabline#show_splits = 1
+	"let g:airline#extensions#tabline#left_sep = 1
+	"let g:airline#extensions#tabline#left_alt_sep = 1
+	"let g:airline#extensions#tabline#right_sep = 1
+	"let g:airline#extensions#tabline#right_alt_sep = 1
+	"let airline#extensions#tabline#tabs_label = ''
+f355433500858823d9259695057e90f1|file:///home/nysg/.config/nvim/init.vim|47|1|v|vim
+	
+	let g:xtabline_settings = {}
+	
+	let g:xtabline_settings.enable_mappings = 0
+	
+	let g:xtabline_settings.tabline_modes = ['buffers', 'tabs']
+	
+	let g:xtabline_settings.enable_persistance = 0
+	
+	" let g:xtabline_settings.last_open_first = 1
+	let g:xtabline_lazy = 1
+	
+	let g:xtabline_settings.show_right_corner = 0
+	
+	let g:xtabline_settings.indicators = {
+	      \ 'modified': '+',
+	      \ 'pinned': '[📌]',
+	      \}
+	      " \ 'modified': '●',
+	
+	let g:xtabline_settings.icons = {
+	      \'pin': '📌',
+	      \'star': '*',
+	      \'book': '📖',
+	      \'lock': '🔒',
+	
+747671c5845ee06c1873ad61f5528f44|file:///home/nysg/.config/nvim/plugins/airline.vim|32|1|v|vim
+	
+	"Tabline
+	let g:airline#extensions#tabline#enabled = 1
+	
+	let g:airline#extensions#tabline#left_sep = ''
+	let g:airline#extensions#tabline#left_alt_sep = ''
+	
+	
+fb3b8c771c86a621561d23ec997677c0|file:///home/nysg/.config/nvim/plugins/airline.vim|98|1|V|vim
+	let g:airline#extensions#tabline#left_alt_sep = ''
+6a32b62d052ea0b51f3079881562bbf6|file:///home/nysg/.config/nvim/plugins/airline.vim|99|1|V|vim
+	let g:airli
+d8f74cc22c6eef980b730ad2876aab71|file:///home/nysg/.config/nvim/plugins/airline.vim|99|34|v|vim
+	left_alt_sep 
+1b39a5418d52c863da22f3595923dbcd|file:///home/nysg/.config/nvim/plugins/airline.vim|99|1|V|vim
+	let g:airline#extensions#tabline#right_alt_sep = ''
+a1acd01d7c754dcd3bbe05a16b621156|file:///home/nysg/.config/nvim/plugins/airline.vim|100|49|v|vim
+	'
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+573a606fb55a6815e7cb6f3209c4d8bc|file:///home/nysg/.config/nvim/init.vim|48|1|v|vim
+	" let g:xtabline_settings = {}
+	
+	" let g:xtabline_settings.enable_mappings = 0
+	
+	" let g:xtabline_settings.tabline_modes = ['buffers', 'tabs']
+	
+	" let g:xtabline_settings.enable_persistance = 0
+	
+	" " let g:xtabline_settings.last_open_first = 1
+	" let g:xtabline_lazy = 1
+	
+	" let g:xtabline_settings.show_right_corner = 0
+	
+	" let g:xtabline_settings.indicators = {
+	"       \ 'modified': '+',
+	"       \ 'pinned': '[📌]',
+	"       \}
+	"       " \ 'modified': '●',
+	
+	" let g:xtabline_settings.icons = {
+	"       \'pin': '📌',
+	"       \'star': '*',
+	"       \'book': '📖',
+	"       \'lock': '🔒',
+	"       \'hammer': '🔨',
+	"       \'tick': '✔',
+	"       \'cross': '✖',
+	"       \'warning': '⚠',
+	"       \'menu': '☰',
+	"       \'apple': '🍎',
+	"       \'linux': '🐧',
+	"       \'windows': '⌘',
+	"       \'git': '',
+	"       \'palette': '🎨',
+	"       \'lens': '🔍',
+	"       \'flag': '🏁',
+	"       \}
+	
+	
+	
+c2013c9e3c2c2f7bec319d301cf8f8d3|file:///home/nysg/.config/nvim/plugins/airline.vim|31|1|v|vim
+	  " Just show the file name
+	
+	" Disable tabline close button
+	"let g:airline#extensions#tabline#show_close_button = 0
+	"let g:airline#extensions#tabline#show_tab_type = 0
+	"let g:airline#extensions#tabline#show_tab_nr = 0
+	"let g:airline#extensions#tabline#fnamecollapse = 1
+	
+	
+1441b2dda942a6e5ec64bd29f73ee0b1|file:///home/nysg/.config/nvim/init.vim|48|1|v|vim
+	
+	map  <Leader>f <Plug>(easymotion-bd-f)
+	nmap <Leader>f <Plug>(easymotion-overwin-f)
+	
+	nmap s <Plug>(easymotion-overwin-f2)
+	
+	" Move to line
+	map <Lerder>L <Plug>(easymotion-bd-jk)
+	nmap <Leader>L <Plug>(easymotion-overwin-line)
+	
+	" Move to word
+	map  <Leader>w <Plug>(easymotion-bd-w)
+	nmap <Leader>w <Plug>(easymotion-overwin-w)
+	
+	
+	
+577f5a627d0d2928a4067af8198d56a0|file:///home/nysg/.config/nvim/init.vim|51|1|v|vim
+	
+	" map  <Leader>f <Plug>(easymotion-bd-f)
+	" nmap <Leader>f <Plug>(easymotion-overwin-f)
+	
+	" nmap s <Plug>(easymotion-overwin-f2)
+	
+	" " Move to line
+	" map <Lerder>L <Plug>(easymotion-bd-jk)
+	" nmap <Leader>L <Plug>(easymotion-overwin-line)
+	
+	" " Move to word
+	" map  <Leader>w <Plug>(easymotion-bd-w)
+	" nmap <Leader>w <Plug>(easymotion-overwin-w)
+	
+	
+4cce629b1e7da049244e051de4acdc76|file:///home/nysg/.config/nvim/init.vim|54|1|V|vim
+	"""SNeak
+30dba2ccbe1f470115fb56a0920923fc|file:///home/nysg/.config/nvim/init.vim|72|1|V|vim
+	(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((())))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
+f6f6f60569234644bd80afb719facacb|file:///home/nysg/.config/nvim/init.vim|29|1|v|vim
+	
+	let g:ale_sign_error = ''
+	let g:ale_sign_warning = ''
+	
+	
+5d30f26f35576bdc58b20a04caa18847|file:///home/nysg/.config/nvim/init.vim|50|1|v|vim
+	
+	" Trigger a highlight in the appropriate direction when pressing these keys:
+	let g:qs_highlight_on_keys = ['f', 'F', 't', 'T']
+	
+	"SNeak
+	let g:sneak#label = 1
+	
+	" case insensitive sneak
+	let g:sneak#use_ic_scs = 1
+	
+	" imediately move tot the next instance of search, if you move the cursor sneak is back to default behavior
+	let g:sneak#s_next = 1
+	
+	" remap so I can use , and ; with f and t
+	map gS <Plug>Sneak_,
+	map gs <Plug>Sneak_;
+	
+	" Change the colors
+	highlight Sneak guifg=black guibg=#00C7DF ctermfg=black ctermbg=cyan
+	highlight SneakScope guifg=red guibg=yellow ctermfg=red ctermbg=yellow
+	
+	
+	
+	" Cool prompt
+	let g:sneak#prompt = '🔎 '
+	
+	" I like quickscope better for this since it keeps me in the scope of a single line
+	" map f <Plug>Sneak_f
+	" map F <Plug>Sneak_F
+	" map t <Plug>Sneak_t
+	" map T <Plug>Sneak_T
+	
+	
+	" Useful info
+	
+	" s<Enter>                 | Repeat the last Sneak.
+	" S<Enter>                 | Repeat the last Sneak, in reverse direction.
+	
+	" silent! call repeat#set("\<Plug>Sneak_s", v:count)
+	" silent! call repeat#set("\<Plug>Sneak_S", v:count)
+	
+	
+3f96080660e961a35aa75002ec3ff004|file:///home/nysg/.config/nvim/init.vim|53|1|v|vim
+	
+	"" Trigger a highlight in the appropriate direction when pressing these keys:
+	"let g:qs_highlight_on_keys = ['f', 'F', 't', 'T']
+	
+	""SNeak
+	"let g:sneak#label = 1
+	
+	"" case insensitive sneak
+	"let g:sneak#use_ic_scs = 1
+	
+	"" imediately move tot the next instance of search, if you move the cursor sneak is back to default behavior
+	"let g:sneak#s_next = 1
+	
+	"" remap so I can use , and ; with f and t
+	"map gS <Plug>Sneak_,
+	"map gs <Plug>Sneak_;
+	
+	"" Change the colors
+	"highlight Sneak guifg=black guibg=#00C7DF ctermfg=black ctermbg=cyan
+	"highlight SneakScope guifg=red guibg=yellow ctermfg=red ctermbg=yellow
+	
+	
+	
+	"" Cool prompt
+	"let g:sneak#prompt = '🔎 '
+	
+	"" I like quickscope better for this since it keeps me in the scope of a single line
+	"" map f <Plug>Sneak_f
+	"" map F <Plug>Sneak_F
+	"" map t <Plug>Sneak_t
+	"" map T <Plug>Sneak_T
+	
+	
+	"" Useful info
+	
+	"" s<Enter>                 | Repeat the last Sneak.
+	"" S<Enter>                 | Repeat the last Sneak, in reverse direction.
+	
+	"" silent! call repeat#set("\<Plug>Sneak_s", v:count)
+	"" silent! call repeat#set("\<Plug>Sneak_S", v:count)
+	
+ca2371eb5549373eea4a13091f8ab2ab|file:///home/nysg/.config/nvim/init.vim|54|1|v|vim
+	let g:rainbow#pairs = [['(', ')'], ['[', ']'], ['{', '}']]
+	let g:rainbow_conf = {'guis': ['bold']}
+	let g:rainbow_active = 1 "set to 0 if you want to enable it later via :RainbowToggle
+	
+	
+	" \	'guifgs': ['royalblue3', 'darkorange3', 'seagreen3', 'firebrick'],
+	let g:rainbow_conf = {
+	\	'guifgs': ['#858580', '#8FBCBB', '#D08770', '#A3BE8C', '#EBCB8B', '#B48EAD', '#80a880', '#887070'],
+	\	'ctermfgs': ['lightblue', 'lightyellow', 'lightcyan', 'lightmagenta'],
+	\	'guis': [''],
+	\	'cterms': [''],
+	\	'operators': '_,_',
+	\	'parentheses': ['start=/(/ end=/)/ fold', 'start=/\[/ end=/\]/ fold', 'start=/{/ end=/}/ fold'],
+	\	'separately': {
+	\		'*': {},
+	\		'markdown': {
+	\			'parentheses_options': 'containedin=markdownCode contained', 
+	\		},
+	\		'lisp': {
+	\	    'guifgs': ['#858580', '#8FBCBB', '#D08770', '#A3BE8C', '#EBCB8B', '#B48EAD', '#80a880', '#887070'],
+	\		},
+	\		'jsx': {
+	\	    'guifgs': ['#858580', '#8FBCBB', '#D08770', '#A3BE8C', '#EBCB8B', '#B48EAD', '#80a880', '#887070'],
+	\		},
+	\		'haskell': {
+	\			'parentheses': ['start=/(/ end=/)/ fold', 'start=/\[/ end=/\]/ fold', 'start=/\v\{\ze[^-]/ end=/}/ fold'],
+	\		},
+	\		'vim': {
+	\			'parentheses_options': 'containedin=vimFuncBody', 
+	\		},
+	\		'perl': {
+	\			'syn_name_prefix': 'perlBlockFoldRainbow', 
+	\		},
+	\		'stylus': {
+	\			'parentheses': ['start=/{/ end=/}/ fold contains=@colorableGroup'], 
+	\		},
+	\		'css': 0, 
+	\	}
+	\}
+	
+	
+d8528664a6da885b4f16c014534aab1a|file:///home/nysg/.config/nvim/init.vim|57|1|v|vim
+	
+	
+	
+	
+	
+	let g:rainbow#pairs = [['(', ')'], ['[', ']'], ['{', '}']]
+	let g:rainbow_conf = {'guis': ['bold']}
+	let g:rainbow_active = 1 "set to 0 if you want to enable it later via :RainbowToggle
+	
+	
+	" \	'guifgs': ['royalblue3', 'darkorange3', 'seagreen3', 'firebrick'],
+	let g:rainbow_conf = {
+	\	'guifgs': ['#858580', '#8FBCBB', '#D08770', '#A3BE8C', '#EBCB8B', '#B48EAD', '#80a880', '#887070'],
+	\	'ctermfgs': ['lightblue', 'lightyellow', 'lightcyan', 'lightmagenta'],
+	\	'guis': [''],
+	\	'cterms': [''],
+	\	'operators': '_,_',
+	\	'parentheses': ['start=/(/ end=/)/ fold', 'start=/\[/ end=/\]/ fold', 'start=/{/ end=/}/ fold'],
+	\	'separately': {
+	\		'*': {},
+	\		'markdown': {
+	\			'parentheses_options': 'containedin=markdownCode contained', 
+	\		},
+	\		'lisp': {
+	\	    'guifgs': ['#858580', '#8FBCBB', '#D08770', '#A3BE8C', '#EBCB8B', '#B48EAD', '#80a880', '#887070'],
+	\		},
+	\		'jsx': {
+	\	    'guifgs': ['#858580', '#8FBCBB', '#D08770', '#A3BE8C', '#EBCB8B', '#B48EAD', '#80a880', '#887070'],
+	\		},
+	\		'haskell': {
+	\			'parentheses': ['start=/(/ end=/)/ fold', 'start=/\[/ end=/\]/ fold', 'start=/\v\{\ze[^-]/ end=/}/ fold'],
+	\		},
+	\		'vim': {
+	\			'parentheses_options': 'containedin=vimFuncBody', 
+	\		},
+	\		'perl': {
+	\			'syn_name_prefix': 'perlBlockFoldRainbow', 
+	\		},
+	\		'stylus': {
+	\			'parentheses': ['start=/{/ end=/}/ fold contains=@colorableGroup'], 
+	\		},
+	\		'css': 0, 
+	\	}
+	\}
+	
+	
+852252c537db4b5603ca23246c8fff86|file:///home/nysg/.config/nvim/init.vim|57|1|V|vim
+	((()))
+73b16f472569911133bbbafd9812e855|file:///home/nysg/.zshrc-personal|7|1|v|zsh
+	alias lupebcd="cd ~/Documents/Lupe/Backend/src"
+	alias lupebvim="nvim ~/Documents/Lupe/Backend/src"
+	alias lupeb="lupebcd lupebvim"
+	
+	
+2e427c268ac1768b9add94b65e2d6c14|file:///home/nysg/.zshrc-personal|11|36|v|zsh
+	Backend
+9e465033e654bf402b4a7f6af835e878|file:///home/nysg/.zshrc-personal|7|1|v|zsh
+	alias lupebcd="cd ~/Documents/Lupe/Backend/src"
+	alias lupebvim="nvim ~/Documents/Lupe/Backend/src"
+	alias lupebst="lupebcd nodemon index.js"
+	alias lupeb="lupebcd lupebvim"
+	
+	alias lupefcd="cd ~/Documents/Lupe/Frontend"
+	alias lupefvim="nvim ~/Documents/Lupe/Frontend"
+	alias lupefst="lupefcd expo start"
+	alias lupef="lupefcd lupefvim"
+	
+f8210ccd9222b9a621a4d6ab40df9b95|file:///home/nysg/.zshrc-personal|9|1|V|zsh
+	alias lupebst="lupebcd && nodemon index.js"
+66f461e9097f1b4946e57e0396952bce|file:///home/nysg/Documents/Lupe/Frontend/src/ImageUp.js|90|7|V|javascript
+	      title:'pic', 
+cc9067c2ee470dc248b14b194209a34e|file:///home/nysg/.config/nvim/plugins/airline.vim|68|1|v|vim
+	
+	
+	
+	
+	
+	
+6fb5bb00602da8ae4cd63985c7834e90|file:///home/nysg/.config/nvim/plugins/airline.vim|90|1|V|vim
+	g:airline#extensions#tabline#ignore_bufadd_pat(coc-explorer)
+270054b65e472bf8222c2e109a2cc568|file:///home/nysg/Documents/Lupe/Backend/src/controllers/users.js|25|1|V|javascript
+	nkhoievnkafoydtukafpodt uafnpoieya koiafenphk cyul tieaf tttt arsitn wfoite naeiowftn auyeioth iesdkmvyz; opund kaotvmsztuyv hna;wfuyrnzsd;oyfahtd oyfwutnaof ietkwy lhg[y0d nzoisdetkz[yudg haf[yp dhzyoipdkmaf[yud hnaosrevmosryh g[0a'htn ieocndbhorfykmg yuh]]]]]

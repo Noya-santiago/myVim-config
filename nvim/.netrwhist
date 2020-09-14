@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/nysg/myVim-config'
+let g:netrw_dirhist_7='/home/nysg/Colegio/Stahler/Actividad1_SitemaFMS'
+let g:netrw_dirhist_6='/home/nysg/Documents/Lupe/Backend/src'
+let g:netrw_dirhist_5='/home/nysg/Documents/Lupe/Frontend'
+let g:netrw_dirhist_4='/home/nysg/.config/nvim/plugins'
+let g:netrw_dirhist_3='/home/nysg/.config/nvim'
+let g:netrw_dirhist_2='/home/nysg/.config/nvim/plugins'
+let g:netrw_dirhist_1='/home/nysg/.config/nvim'

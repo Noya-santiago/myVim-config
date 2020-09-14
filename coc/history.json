@@ -1,0 +1,16 @@
+{
+  "extensions": {
+    "%2Fhome%2Fnysg": [
+      "q"
+    ]
+  },
+  "marketplace": {
+    "%2Fhome%2Fnysg": [
+      "tex",
+      "vimtex",
+      "snippetsq",
+      "yarn",
+      "discord"
+    ]
+  }
+}

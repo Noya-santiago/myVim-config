@@ -1,0 +1,14 @@
+{
+  "extension": {
+    "coc-snippets": {
+      "disabled": false
+    },
+    "coc-discord": {
+      "disabled": true
+    },
+    "coc-discord-neovim": {
+      "disabled": true
+    }
+  },
+  "lastUpdate": 1599852922079
+}
